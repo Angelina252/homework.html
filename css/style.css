@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    background-color: #24263b;
+    height: 8336px;
+    width: 1920px;
+}
+.Some{
+    color: white; 
+    font-size:  12px; 
+    text-align: center;
+    font-weight: bold;
+    font-family: "Public Sans";
+    word-spacing: 15px;
+    cursor: pointer;
+}
+b {
+    word-spacing: 40px;
+}
+h4 {
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: "Public Sans";
+    word-spacing: 15px;
+}
+h1 {
+    color: white;
+    text-align: left;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: "Outfit";
+
+}
+h5 {
+    color: white;
+    font-size: 12 px;
+    font-family: "Public Sans";
+    font-weight: lighter;
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Outfit";
+    font-weight: bold;
+}
+h3 {
+    color: white;
+    font-size: 16px;
+    font-family: "Outfit";
+    font-weight: bold;
+}
+#first {
+    width: 1285px;
+    height: 50px;
+    margin-top: 22px;
+    margin-left: 335px;
+    padding-left: 100px;
+    text-align: right;
+    line-height: 15px;
+}
+#first1 {
+    width: 654px;
+    height: 340px;
+    line-height: 20px;
+    text-align: left;
+    margin-top: 335px;
+    margin-left: 300px;
+    float: left;
+}
+#second{
+    width: 1195px;
+    height: 636.81px;
+    line-height: 10px;
+    margin-top: 1063px;
+    margin-left: 303px;
+    float: right;
+    text-align: left;
+}
+
+#three {
+    width: 1320px;
+    height: 828px;
+    margin-top: 2056px;
+    margin-left: 300px;
+}
+#four {
+    width: 1321px;
+    height: 510px;
+    margin-top: 3123px;
+    margin-left: 300px;
+}
+#fife {
+    width: 1920px;
+    height: 806px;
+    margin-top: 3753px;
+}
+#six {
+    width: 1364px;
+    height: 507px;
+    margin-top: 4679px;
+    margin-left: 256px;
+}
+#seven {
+    width: 1920px;
+    height: 862px;
+    margin-top: 5306px;
+}
+#eight {
+    width: 1320px;
+    height: 390px;
+    margin-top: 6288px;
+    margin-left: 300px;
+}
+#nine {
+    width: 1920px;
+    height: 1448px;
+    margin-top: 6798px;
+}
